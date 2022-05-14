@@ -1,0 +1,13 @@
+This is the instruction of using files in this folder Question 1:
+
+graph.py, graph.ipynd : generating a graph with horizontal and vertical lines
+    Requirement: python 3, jupyter note IDE (for .ipynd file)
+    Execution: python graph.py 
+               jupyter-lab (must be in the folder directory)
+
+Report.docx : documentation explaining algorithms, performance and the example output
+
+q1.cpp : C++ file for deriving the example
+    Execution:  g++ q1.cpp
+                ./a
+    Expected output: stated in the Report.docx

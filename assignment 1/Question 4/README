@@ -1,0 +1,8 @@
+This is the instruction of using files in this folder Question 4:
+
+Report.docx : documentation explaining algorithms, performance and the example output
+
+q4.cpp : C++ file for deriving the example
+    Execution:  g++ q4.cpp
+                ./a
+    Expected output: stated in the Report.docx
